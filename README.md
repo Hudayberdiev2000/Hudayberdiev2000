@@ -11,4 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udayberdiev2000&show_icons=true&locale=en&layout=compact" alt="udayberdiev2000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udayberdiev2000&show_icons=true&locale=en" alt="udayberdiev2000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hudayberdiev2000&show_icons=true&locale=en" alt="udayberdiev2000" /></p>
