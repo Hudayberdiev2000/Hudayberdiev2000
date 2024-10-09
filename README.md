@@ -6,6 +6,9 @@
 <a href="https://instagram.com/hudayberdiev_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hudayberdiev_z" height="30" width="40" /></a>
 </p>
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
+
 [![Hudayberdiev2000's GitHub | Stats](https://stats.quira.sh/Hudayberdiev2000/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Hudayberdiev2000)
 
 <h3 align="left">Languages and Tools:</h3>
